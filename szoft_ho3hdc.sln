@@ -17,6 +17,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "hajosKviz", "hajosKviz\hajo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "snake", "snake\snake.csproj", "{486640C9-C093-4031-863A-0953514E319B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "adatkotes", "adatkotes\adatkotes.csproj", "{51708A9D-5A8B-4A83-BB62-895F42AE9B31}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{486640C9-C093-4031-863A-0953514E319B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{486640C9-C093-4031-863A-0953514E319B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{486640C9-C093-4031-863A-0953514E319B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51708A9D-5A8B-4A83-BB62-895F42AE9B31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51708A9D-5A8B-4A83-BB62-895F42AE9B31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51708A9D-5A8B-4A83-BB62-895F42AE9B31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51708A9D-5A8B-4A83-BB62-895F42AE9B31}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
